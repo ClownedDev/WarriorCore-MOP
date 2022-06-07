@@ -38,3 +38,4 @@ Fix drop del npc Bailarin de niebla , ya suelta todos los items con la probabili
 Fix drop del npc  Añojo Cueracero , ya suelta todos los items con la probabilidad correcta https://es.wowhead.com/npc=72842/a%C3%B1ojo-cueracero
 Se fixeo https://es.wowhead.com/spell=134732/fatiga-de-batalla en duelos.
 Se agregaron los flags faltantes de https://es.wowhead.com/npc=31897/pozo-de-luz
+Fix desborde de memoria en characters.
