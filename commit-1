@@ -40,3 +40,4 @@ Se fixeo https://es.wowhead.com/spell=134732/fatiga-de-batalla en duelos.
 Se agregaron los flags faltantes de https://es.wowhead.com/npc=31897/pozo-de-luz
 Fix desborde de memoria en characters.
 Fix memory leak en spam de errores en consola.
+Fix desborde de memoria al terminar grupo o dejar una guild.
