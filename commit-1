@@ -44,3 +44,4 @@ Fix desborde de memoria al terminar grupo o dejar una guild.
 Fix credito de encontrar a https://www.wowhead.com/npc=67927/blood-guard-grotash-found para la mision de https://www.wowhead.com/quest=32250/the-might-of-the-warchief
 Fix quest https://es.wowhead.com/quest=32250/el-poderío-del-jefe-de-guerra, ahora ya te da el credito de encontrar a https://es.wowhead.com/npc=67926/llorica-tuercafloja.
 Fix tamaño en pets de DK.
+Fix spell https://es.wowhead.com/spell=17253/mordedura acorde a la info oficial para un scalado de daño correcto y no desbordado de forma incorrecta.
